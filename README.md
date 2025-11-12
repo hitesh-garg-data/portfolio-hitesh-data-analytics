@@ -1,2 +1,33 @@
 # portfolio-hitesh-data-analytics
 My Data Analytics &amp; Finance Analytics portfolio projects (Excel • Power BI • SQL)
+Portfolio — Hitesh Garg
+👋 About Me
+
+Aspiring Data Analyst → Finance Data Scientist.
+Commerce graduate transitioning into data-driven problem-solving.
+Currently completing the Google Data Analytics Certificate and creating real-world dashboards using Excel and Power BI.
+
+📊 Featured Project — Sales Dashboard (Excel + Power BI)
+
+Description:
+Visualizes regional and product-wise sales performance.
+Shows key KPIs like Total Sales, Total Units Sold, and Average Sales per Unit.
+
+Tools Used: Excel, Power BI
+Skills Demonstrated: Data Cleaning • DAX • Visualization • KPI Analysis
+Date: November 2025
+
+📁 Project Files
+
+Sales_dashboard_v1.pdf — Project report
+
+Sales_dashboard_v1.png — Dashboard preview
+
+desc.md — Project summary
+
+Readme_sales_dashboard.md — Detailed documentation
+
+🔗 Links
+
+📂 Notion Portfolio: (to be added)
+📧 Email: hiteshgarg.data@gmail.com
