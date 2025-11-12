@@ -17,15 +17,15 @@ Tools Used: Excel, Power BI
 Skills Demonstrated: Data Cleaning • DAX • Visualization • KPI Analysis
 Date: November 2025
 
-📁 Project Files
+## 📁 Project Files  
 
-Sales_dashboard_v1.pdf — Project report
+- [Sales_dashboard_v1.pdf](Sales_dashboard_v1.pdf) — Portfolio report version (static overview for review & sharing)  
+- [Sales_dashboard_v1.png](Sales_dashboard_v1.png) — Dashboard visual snapshot (quick preview)  
+- [desc.md](desc.md) — Short project summary and objective  
+- [Readme_sales_dashboard.md](Readme_sales_dashboard.md) — Detailed data cleaning & transformation documentation  
+- [Sales_dashboard_v1.pbix](Sales_dashboard_v1.pbix) — Power BI source file (interactive dashboard model; open in Power BI Desktop)
 
-Sales_dashboard_v1.png — Dashboard preview
 
-desc.md — Project summary
-
-Readme_sales_dashboard.md — Detailed documentation
 
 🔗 Links
 
