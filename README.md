@@ -1,5 +1,3 @@
-# portfolio-hitesh-data-analytics
-My Data Analytics &amp; Finance Analytics portfolio projects (Excel • Power BI • SQL)
 Portfolio — Hitesh Garg
 👋 About Me
 
@@ -29,5 +27,5 @@ Date: November 2025
 
 🔗 Links
 
-📂 Notion Portfolio: (to be added)
+📂 Notion Portfolio: https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd4380e1904acef1d5f325d3?source=copy_link
 📧 Email: hiteshgarg.data@gmail.com
